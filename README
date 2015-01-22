@@ -1,4 +1,4 @@
-This is a realtime pitch tracker. It listens through a microphone and graphs the most audible frequency. Also displays current volume and musical note. A picture of the application is at the top level. 
+This is a realtime pitch tracker. It listens through a microphone and graphs the most audible frequency. Also displays current volume, musical note, and tuning. A picture of the application is at the top level. 
 
 Best for single note instrument such as trumpet. It was intended for musical instrument training, but may not be the best tool.
 
