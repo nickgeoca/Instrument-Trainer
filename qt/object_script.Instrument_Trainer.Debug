@@ -1,0 +1,13 @@
+INPUT(
+./debug\mainwindow.o
+./debug\main.o
+./debug\dywapitchtrack.o
+./debug\audioengine.o
+./debug\trace.o
+./debug\plot.o
+./debug\signaldata.o
+./debug\curvedata.o
+./debug\moc_mainwindow.o
+./debug\moc_audioengine.o
+./debug\moc_plot.o
+);

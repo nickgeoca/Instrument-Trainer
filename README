@@ -1,0 +1,7 @@
+This is a realtime pitch tracker. It listens through a microphone and graphs the most audible frequency. Also displays current volume and musical note. A picture of the application is at the top level. 
+
+Best for single note instrument such as trumpet. It was intended for musical instrument training, but may not be the best tool.
+
+It uses Qt and ran on Windows 7. The audio anaylsis uses dywapitchtrack (http://www.schmittmachine.com/dywapitchtrack.html). 
+
+Code may not work anymore because it was last compiled several years ago.
